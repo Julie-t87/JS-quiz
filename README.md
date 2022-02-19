@@ -1,1 +1,1 @@
-# JS-quiz
+# code-quiz
